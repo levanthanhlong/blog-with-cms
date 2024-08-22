@@ -1,4 +1,4 @@
-baseURL = 'https://blog-with-cms-le-thanh.netlify.app'
+baseURL = 'https://le-thanh-blog-with-cms.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'paper'
