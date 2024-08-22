@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Aug 2024 15:32:44 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 22 Aug 2024 15:32:44 +0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>this is my first post st-post/index Error: failed to resolve &amp;ldquo;posts/first-post/index&amp;rdquo; to an archetype template thanhle@Thanhs-Mac-mini blog-with-cms % hugo new posts/first-post/index Error: failed to resolve &amp;ldquo;posts/first-post/index&amp;rdquo; to an archetype template thanhle@Thanhs-Mac-mini blog-with-cms % hugo new content posts/first-post/index Error: failed to resolve &amp;ldquo;posts/first-post/index&amp;rdquo; to an archetype template thanhle@Thanhs-Mac-mini blog-with-cms % hugo new content posts/first-post/index.md Content &amp;ldquo;/Users/thanhle/Documents/hugo-app/blog-with-cms/content/posts/first-post/index.md&amp;rdquo; created thanhle@Thanhs-Mac-mini blog-with-cms %</description>
+    </item>
+  </channel>
+</rss>
