@@ -2,8 +2,7 @@
 title: " Casemiro celebrates two years with United in style"
 date: 2024-08-22T16:39:00.000Z
 image: mu1.jpeg
-tags:
-  - mu
+tags: []
 ---
 byIsaac Stacey StrongeThursday 22 August 2024 15:32Share With twitterShare With facebook
 
