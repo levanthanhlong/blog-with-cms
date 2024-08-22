@@ -1,8 +1,9 @@
-+++
-title = 'First Post'
-date = 2024-08-22T15:32:44+07:00
-draft = false
-+++
+---
+title: First Post
+date: 2024-08-22T08:32:44.000Z
+draft: false
+image: mu1.jpeg
+---
 
 ## this is my first post ##
 
