@@ -6,12 +6,33 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2024 15:32:44 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 09:26:05 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>http://localhost:1313/posts/third/third-post/</link>
+      <pubDate>Fri, 23 Aug 2024 09:26:05 +0700</pubDate>
+      <guid>http://localhost:1313/posts/third/third-post/</guid>
+      <description>byIsaac Stacey StrongeThursday 22 August 2024 15:32Share With twitterShare With facebook&#xA;It has been two years since Brazilian midfielder Casemiro made his move from Real Madrid to Manchester United, and he has already banked an inspired performance in our first Premier League game of 2024/25 against Fulham.&#xA;The battling midfielder made the journey from Madrid to Old Trafford with significant fanfare, arriving as one of the most decorated players in world football, counting five Champions Leagues and a Copa America among his silverware collection.</description>
+    </item>
+    <item>
+      <title>second</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Thu, 22 Aug 2024 16:57:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>asdfasfqweawefasdfasdfasdfasd</description>
+    </item>
+    <item>
+      <title> Casemiro celebrates two years with United in style</title>
+      <link>http://localhost:1313/posts/casemiro-celebrates-two-years-with-united-in-style/</link>
+      <pubDate>Thu, 22 Aug 2024 16:39:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/casemiro-celebrates-two-years-with-united-in-style/</guid>
+      <description>byIsaac Stacey StrongeThursday 22 August 2024 15:32Share With twitterShare With facebook&#xA;It has been two years since Brazilian midfielder Casemiro made his move from Real Madrid to Manchester United, and he has already banked an inspired performance in our first Premier League game of 2024/25 against Fulham.&#xA;The battling midfielder made the journey from Madrid to Old Trafford with significant fanfare, arriving as one of the most decorated players in world football, counting five Champions Leagues and a Copa America among his silverware collection.</description>
+    </item>
     <item>
       <title>First Post</title>
       <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Thu, 22 Aug 2024 15:32:44 +0700</pubDate>
+      <pubDate>Thu, 22 Aug 2024 08:32:44 +0000</pubDate>
       <guid>http://localhost:1313/posts/first-post/</guid>
       <description>this is my first post st-post/index Error: failed to resolve &amp;ldquo;posts/first-post/index&amp;rdquo; to an archetype template thanhle@Thanhs-Mac-mini blog-with-cms % hugo new posts/first-post/index Error: failed to resolve &amp;ldquo;posts/first-post/index&amp;rdquo; to an archetype template thanhle@Thanhs-Mac-mini blog-with-cms % hugo new content posts/first-post/index Error: failed to resolve &amp;ldquo;posts/first-post/index&amp;rdquo; to an archetype template thanhle@Thanhs-Mac-mini blog-with-cms % hugo new content posts/first-post/index.md Content &amp;ldquo;/Users/thanhle/Documents/hugo-app/blog-with-cms/content/posts/first-post/index.md&amp;rdquo; created thanhle@Thanhs-Mac-mini blog-with-cms %</description>
     </item>

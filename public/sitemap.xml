@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2024-08-22T15:32:44+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-22T15:32:44+07:00</lastmod>
+    <lastmod>2024-08-23T08:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-22T15:32:44+07:00</lastmod>
+    <lastmod>2024-08-23T08:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/third/third-post/</loc>
+    <lastmod>2024-08-23T09:26:05+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/second/</loc>
+    <lastmod>2024-08-22T16:57:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/casemiro-celebrates-two-years-with-united-in-style/</loc>
+    <lastmod>2024-08-22T16:39:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/first-post/</loc>
+    <lastmod>2024-08-22T08:32:44+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 
 
 
@@ -46,6 +46,9 @@
 
   
   <title>First Post - My New Hugo Site</title>
+
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   
   <meta name="theme-color" />
@@ -229,6 +232,17 @@ thanhle@Thanhs-Mac-mini blog-with-cms %</p>
   
   
   
+  <nav
+    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg !leading-[1.2] *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
+  >
+    
+    <a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/posts/casemiro-celebrates-two-years-with-united-in-style/"
+      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span> Casemiro celebrates two years with United in style</span></a
+    >
+    
+    
+  </nav>
+  
   
 
   
@@ -267,5 +281,16 @@ thanhle@Thanhs-Mac-mini blog-with-cms %</p>
   >
 </footer>
 
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>

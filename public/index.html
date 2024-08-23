@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 
 
 
@@ -46,6 +46,9 @@
 
   
   <title>My New Hugo Site</title>
+
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   
   <meta name="theme-color" />
@@ -214,6 +217,45 @@
 
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   
+  <h2 class="!my-0">Third Post</h2>
+  <time class="text-xs antialiased opacity-60"
+    >Aug 23, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/posts/third/third-post/">Third Post</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0">second</h2>
+  <time class="text-xs antialiased opacity-60"
+    >Aug 22, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/posts/second/">second</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0"> Casemiro celebrates two years with United in style</h2>
+  <time class="text-xs antialiased opacity-60"
+    >Aug 22, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/posts/casemiro-celebrates-two-years-with-united-in-style/"> Casemiro celebrates two years with United in style</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
   <h2 class="!my-0">First Post</h2>
   <time class="text-xs antialiased opacity-60"
     >Aug 22, 2024</time
@@ -249,5 +291,16 @@
   >
 </footer>
 
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
